@@ -98,4 +98,6 @@ contract TweeterContract {
         }
         return _tweets;
         }
-    } .
+    } 
+
+    //demo using git 
